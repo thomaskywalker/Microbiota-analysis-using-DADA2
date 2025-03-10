@@ -1,1 +1,3 @@
 # Microbiota-analysis-using-DADA2
+16S Ion Torrent sequencing single end data from paper "Distribution and Interaction Patterns of Bacterial Communities in an Ornithogenic Soil of Seymour Island, Antarctica" published in 2015 (10.1007/s00248-014-0510-6), in which OTU method was implemented to analyse soil microbiota.
+Here we used DADA2 (https://doi.org/10.1038/nmeth.3869), published in year 2016 to reproduce and compare the alpha and beta diversity, as well as interaction network analysis using the same data. The script covers the methods from QC, sequence preprocessing, DADA2, phyloseq, and downstream applications.
